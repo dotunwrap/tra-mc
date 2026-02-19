@@ -20,7 +20,7 @@ module "hetzner_mc_server" {
   mc_server_type       = "forge"
   mc_version           = "1.20.1"
   mc_modloader_version = "47.4.10"
-  mc_server_memsize    = 6
+  mc_server_memsize    = 14
   mc_mods              = sort([for f in fileset(path.module, "../.mods/*.jar") : f])
 
   server_properties = {
