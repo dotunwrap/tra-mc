@@ -31,22 +31,34 @@ _Note that not all mods listed here are installed on the server; rather, this is
 - [CC: VS](https://modrinth.com/mod/bvgy8HrZ) [1\.20\.1\-forge\-0\.6\.0]
 - [CC:C Bridge](https://modrinth.com/mod/fXt291FO) [1\.7\.1] by Sammy L\. Koch
 - [Carry On](https://modrinth.com/mod/joEfVgkn) [2\.1\.2\.7] by Tschipp, Purplicious_Cow, cy4n
+- [Carry On \+ Valkyrien Skies Compat](https://modrinth.com/mod/VdZ1CoT5) [1\.0\.0] by copygirl
 - [Chunk Loaders](https://modrinth.com/mod/t1VgucWo) [1\.2\.9] by SuperMartijn642
 - [Cloth Config v10 API](https://modrinth.com/mod/9s6osm5g) [11\.1\.106] by shedaniel
 - [Collective](https://modrinth.com/mod/e0M1UDsY) [8\.13] by Rick South
+- [Comforts](https://modrinth.com/mod/SaCpeal4) [6\.4\.0\+1\.20\.1] by Illusive Soulworks
 - [CoroUtil](https://www.curseforge.com/projects/237749) [1\.20\.1\-1\.3\.7] by Corosus
 - [Create](https://modrinth.com/mod/LNytGWDc) [6\.0\.8] by simibubi
+- [Create Applied Kinetics](https://modrinth.com/mod/mYGTCuZY) [1\.5\.1\-1\.20\.1]
 - [Create Crafts & Additions](https://modrinth.com/mod/kU1G12Nn) [1\.20\.1\-1\.3\.3] by MRH0
 - [Create Deco](https://modrinth.com/mod/sMvUb4Rb) [2\.0\.3\-1\.20\.1\-forge] by Kayla, Talrey, Ordana, Cassian
+- [Create Enchantment Industry](https://modrinth.com/mod/JWGBpFUP) [1\.3\.3\-for\-create\-6\.0\.6] by MarbleGateKeeper & LimonBlaze
 - [Create Jetpack](https://modrinth.com/mod/UbFnAd4l) [4\.4\.6] by possible_triangle
 - [Create Ore Excavation](https://modrinth.com/mod/ResbpANg) [1\.6\.5] by tom5454
 - [Create Railways Navigator](https://modrinth.com/mod/Dq3STxps) [1\.20\.1\-alpha\-0\.9\.0\-1\-C6] by MrJulsen
+- [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) [3\.6\.0] by possible_triangle
+- [Create Stuff & Additions](https://modrinth.com/mod/aq9qUUQG) [2\.1\.0] by Furti_Two
 - [Create Track Map](https://modrinth.com/mod/gxoNIjg6) [1\.4] by LittleChaSiu
 - [Create: Bells & Whistles](https://modrinth.com/mod/gJ5afkVv) [0\.4\.3\-1\.20\.x] by lev
+- [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO) [1\.4\.3b] by LimonBlaze, MarbleGate and Etherwood
+- [Create: Connected](https://modrinth.com/mod/Vg5TIO6d) [1\.1\.13\-mc1\.20\.1] by Lysine
 - [Create: Copycats\+](https://modrinth.com/mod/UT2M39wf) [3\.0\.7\+mc\.1\.20\.1\-forge] by Lysine, Bennyboy1695, Redcat_XVIII
 - [Create: Escalated](https://modrinth.com/mod/LyOBYG8Q) [1\.2\.1] by rbasamoyai
+- [Create: Interactive](https://modrinth.com/mod/MyfCcqiE) [1\.2\.1\_1\.20\.1\-forge]
+- [Create: Interiors](https://modrinth.com/mod/r4Knci2k) [0\.6\.0] by sudolev, rdh
+- [Create: Propulsion](https://modrinth.com/mod/fmudhH0S) [0\.3\.1] by Sergey Feduk
 - [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) [1\.6\.15\-beta\+forge\-mc1\.20\.1] by The Railways Team
 - [Create: Structures](https://modrinth.com/mod/IAnP4np7) [0\.1\.1] by FusionSwarly
+- [Create: The Factory Must Grow](https://modrinth.com/mod/USgVjXsk) [1\.0\.2f] by DrMangoTea, Pepa, Luna
 - [Create: Threaded Trains](https://modrinth.com/mod/RYJzdkDr) [1\.20\.1\-1\.0\.0] by MrJulsen
 - [Curios API](https://modrinth.com/mod/vvuO3ImH) [5\.14\.1\+1\.20\.1] by C4
 - [Cut Through](https://modrinth.com/mod/Dk6su9JN) [8\.0\.2] by Fuzs
@@ -59,12 +71,15 @@ _Note that not all mods listed here are installed on the server; rather, this is
 - [DragonLib](https://modrinth.com/mod/sbIsGaOV) [1\.20\.1\-beta\-3\.0\.19] by MrJulsen
 - [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww) [3\.0\.3\.f] by NovaWostra, Walls
 - [Durability Tooltip](https://modrinth.com/mod/smUP7V3r) [1\.1\.6] by SuperMartijn642
+- [Effortless Building](https://modrinth.com/mod/DYtfQEYj) [3\.10] by Requios
 - [Embeddium](https://modrinth.com/mod/sk9rgfiA) [0\.3\.31\+mc1\.20\.1] by embeddedt
 - [Embeddium Extra](https://modrinth.com/mod/oY2B1pjg) [0\.5\.4\.4\+mc1\.20\.1\-build\.131] by dima_dencep, FlashyReese
 - [Enchanted](https://modrinth.com/mod/HsbpdVo9) [3\.1\.13] by Favouriteless
 - [Ender IO](https://modrinth.com/mod/49ZofO4f) [6\.2\.17\-beta] by CrazyPants, tterrag, HenryLoenwind, MatthiasM, CyanideX, EpicSquid, Rover656, HypherionSA, agnor99, Ferri_Arnus, dphaldes
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.9\.5] by tr7zw
 - [Exposure](https://modrinth.com/mod/hB899VmG) [1\.7\.16] by mortuusars
 - [Extreme Reactors](https://modrinth.com/mod/idkvShUy) [1\.20\.1\-2\.0\.84] by ZeroNoRyouki
+- [Farmer's Delight](https://modrinth.com/mod/R2OftAxM) [1\.20\.1\-1\.2\.10] by vectorwing
 - [GeckoLib 4](https://modrinth.com/mod/8BmcQJ2H) [4\.8\.3] by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
 - [Gravestone Mod](https://modrinth.com/mod/RYtXKJPr) [1\.20\.1\-1\.0\.35] by Max Henkel
 - [GuideME](https://modrinth.com/mod/Ck4E7v7R) [20\.1\.14] by shartte
@@ -110,11 +125,16 @@ _Note that not all mods listed here are installed on the server; rather, this is
 - [Structurize](https://www.curseforge.com/projects/298744) [1\.20\.1\-1\.0\.802\-snapshot] by LDT Team
 - [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP) [1\.1\.8] by SuperMartijn642
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) [1\.1\.19] by SuperMartijn642
+- [Terralith](https://modrinth.com/mod/8oi3bsk5) [2\.5\.4] by Stardust Labs
 - [Tinkers' Construct](https://modrinth.com/mod/rxIIYO6c) [3\.11\.2\.166] by Slime Knights
 - [TownTalk](https://www.curseforge.com/projects/900364) [1\.1\.0] by LDT Team
+- [Trackwork Mod](https://modrinth.com/mod/FXDpZRJG) [1\.2\.3] by Endalion
 - [Trash Cans](https://modrinth.com/mod/4QrnfueM) [1\.0\.18b] by SuperMartijn642
 - [TxniLib](https://modrinth.com/mod/vBbPDuOs) [1\.0\.24] by Toni
 - [UI Library Mod](https://www.curseforge.com/projects/522992) [1\.20\.1\-1\.0\.194\-snapshot] by LDT Team
+- [VLib](https://modrinth.com/mod/V1UmcEMX) [1\.20\.1\-0\.1\.1]
+- [VS Tournament Mod](https://modrinth.com/mod/jIVvzR1C) [1\.1\.0\_beta\-5\.3\+af35b3821f]
+- [Valkyrien Sails](https://modrinth.com/mod/esFadCt9) [0\.2\.6] by Quinton Center
 - [Valkyrien Skies 2](https://modrinth.com/mod/V5ujR2yw) [2\.4\.9]
 - [What Are They Up To](https://www.curseforge.com/projects/945479) [1\.20\.1\-1\.2\.3] by Corosus
 - [YUNG's API](https://modrinth.com/mod/Ua7DFN59) [1\.20\-Forge\-4\.0\.6] by YUNGNICKYOUNG
