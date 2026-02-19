@@ -3,7 +3,7 @@ terraform {
 }
 
 module "hetzner_mc_server" {
-  source = "git::https://github.com/dotunwrap/terraform-hetzner-mc-server.git//module?ref=v1.0.1"
+  source = "git::https://github.com/dotunwrap/terraform-hetzner-mc-server.git//module?ref=v1.0.2"
 
   hcloud_token = var.hcloud_token
 
@@ -20,6 +20,7 @@ module "hetzner_mc_server" {
   mc_server_type       = "forge"
   mc_version           = "1.20.1"
   mc_modloader_version = "47.4.10"
+  mc_server_memsize    = 6
   mc_mods              = sort([for f in fileset(path.module, "../.mods/*.jar") : f])
 
   server_properties = {
