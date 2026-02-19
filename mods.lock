@@ -394,11 +394,6 @@
     "size": 2384003,
     "checksum": "blake3:cc10d5959a4b3a10ad433d9c4a5051a68e40f8a7ad94a236ad21fb8fbd03482c"
   },
-  "Create Track Map": {
-    "path": "./.mods/create-track-map-1.4%2Bmc1.20.1-neoforge.jar",
-    "size": 4392723,
-    "checksum": "blake3:b5797410a306d0b94dbee034974535e97d0ef5c49aca304219ee99de726102fa"
-  },
   "Create: Threaded Trains": {
     "path": "./.mods/createthreadedtrains-forge-1.20.1-1.0.0.jar",
     "size": 77230,
