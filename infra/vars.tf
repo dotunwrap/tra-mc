@@ -1,28 +1,28 @@
 variable "hcloud_token" {
-  type = string
+  type        = string
   description = "Hetzner Cloud API token"
-  sensitive = true
+  sensitive   = true
 }
 
 variable "public_ssh_key" {
-  type = string
+  type        = string
   description = "SSH public key"
 }
 
 variable "private_ssh_key" {
-  type = string
+  type        = string
   description = "SSH private key"
-  sensitive = true
+  sensitive   = true
 }
 
 variable "rcon_password" {
-  type = string
+  type        = string
   description = "The password for rcon connections"
-  sensitive = true
+  sensitive   = true
 }
 
 variable "rcon_port" {
-  type = string
+  type        = string
   description = "The port for rcon connections"
-  sensitive = true
+  sensitive   = true
 }
