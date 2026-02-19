@@ -529,11 +529,6 @@
     "size": 2285317,
     "checksum": "blake3:2e25b4f896f3dd664e570aea136fe4f040c30f16f55cfaf9eb56dfc59f9de62b"
   },
-  "Valkyrien Skies: Tournament": {
-    "path": "./.mods/tournament-1.20.1-forge-1.1.0_beta-5.3%2Baf35b3821f.jar",
-    "size": 726709,
-    "checksum": "blake3:224534ab74658c768d1bad06fcf7143172e54555302fe9812ad37ee6485ee50f"
-  },
   "Terralith": {
     "path": "./.mods/Terralith_1.20.x_v2.5.4.jar",
     "size": 3156901,
