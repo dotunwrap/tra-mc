@@ -133,7 +133,6 @@ _Note that not all mods listed here are installed on the server; rather, this is
 - [TxniLib](https://modrinth.com/mod/vBbPDuOs) [1\.0\.24] by Toni
 - [UI Library Mod](https://www.curseforge.com/projects/522992) [1\.20\.1\-1\.0\.194\-snapshot] by LDT Team
 - [VLib](https://modrinth.com/mod/V1UmcEMX) [1\.20\.1\-0\.1\.1]
-- [VS Tournament Mod](https://modrinth.com/mod/jIVvzR1C) [1\.1\.0\_beta\-5\.3\+af35b3821f]
 - [Valkyrien Sails](https://modrinth.com/mod/esFadCt9) [0\.2\.6] by Quinton Center
 - [Valkyrien Skies 2](https://modrinth.com/mod/V5ujR2yw) [2\.4\.9]
 - [What Are They Up To](https://www.curseforge.com/projects/945479) [1\.20\.1\-1\.2\.3] by Corosus
