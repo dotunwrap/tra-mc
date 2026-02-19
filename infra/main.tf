@@ -12,7 +12,7 @@ module "hetzner_mc_server" {
   public_ssh_key  = var.public_ssh_key
   private_ssh_key = var.private_ssh_key
 
-  server_type     = "ccx13"
+  server_type     = "ccx23"
   server_location = "ash"
 
   volume_size = 50
