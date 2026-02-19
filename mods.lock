@@ -1,0 +1,512 @@
+{
+  "AE2WTLib": {
+    "path": "./.mods/ae2wtlib-15.3.3-forge.jar",
+    "size": 229518,
+    "checksum": "blake3:9b9dbc1c7bef17e97b736354d4cc80de9c20e79012ef67718100bfbdaac2071a"
+  },
+  "AppleSkin": {
+    "path": "./.mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+    "size": 47428,
+    "checksum": "blake3:89d3c5f57a43548d7be6eba9b4aee85e0bd0164049614bfceccf219cbe428701"
+  },
+  "Applied Energistics 2": {
+    "path": "./.mods/appliedenergistics2-forge-15.4.10.jar",
+    "size": 8495956,
+    "checksum": "blake3:e7f27b19bf99086ac940ff09760bee1ef53433bace794a5954a7812de0823e0e"
+  },
+  "CC: Tweaked": {
+    "path": "./.mods/cc-tweaked-1.20.1-forge-1.117.0.jar",
+    "size": 3089596,
+    "checksum": "blake3:4d6753ad4de62206562bbefd209c809beb74b110cf577b4c17d9a0baf6a9f3ac"
+  },
+  "CC:C Bridge": {
+    "path": "./.mods/cccbridge-mc1.20.1-v1.7.1-forge.jar",
+    "size": 495165,
+    "checksum": "blake3:019176274bce5bce6838e0aeef5b2742ec6e7e1e7b9af9b3c3f409ae09cfc6c6"
+  },
+  "Carry On": {
+    "path": "./.mods/carryon-forge-1.20.1-2.1.2.7.jar",
+    "size": 439457,
+    "checksum": "blake3:f5d5dec3af608d63eca3f353113fd0304dcb94a01b1e65f6de7dd462a6442c3c"
+  },
+  "Create Deco": {
+    "path": "./.mods/createdeco-2.0.3-1.20.1-forge.jar",
+    "size": 3509013,
+    "checksum": "blake3:568efa811d3402c01926837cc0be2c0c5f8e3cab384ea8b0355470ef61a812b5"
+  },
+  "Create Jetpack": {
+    "path": "./.mods/create_jetpack-forge-4.4.6.jar",
+    "size": 638327,
+    "checksum": "blake3:fa9d601951cb066a9b1ec4a31e0b9c9be0153eedd27ba40662ec9c51fa8ff47c"
+  },
+  "Create: Steam 'n' Rails": {
+    "path": "./.mods/Steam_Rails-1.6.15-beta+forge-mc1.20.1.jar",
+    "size": 10000104,
+    "checksum": "blake3:261f85cc80bf5e9bc27cad7aff97d5ff25d7dcf50876fe77383552208b715b44"
+  },
+  "Create: Structures": {
+    "path": "./.mods/create-structures-0.1.1-1.20.1-FORGE.jar",
+    "size": 484781,
+    "checksum": "blake3:054f7d48f749530cebbda4e555687e61e31a3b313bef48b163dabac6729d2586"
+  },
+  "Create: Copycats+": {
+    "path": "./.mods/copycats-3.0.7%2Bmc.1.20.1-forge.jar",
+    "size": 1996097,
+    "checksum": "blake3:22dda8be96d8b5ba124369d4f62bdfdd8efe85085880febd8046f148436eceaf"
+  },
+  "Curios API": {
+    "path": "./.mods/curios-forge-5.14.1+1.20.1.jar",
+    "size": 398066,
+    "checksum": "blake3:e6e060477f22d5d22a657274ec4b37aa9d5d9b1621c2dc9d4b55ec5bfc5a8ba0"
+  },
+  "Dungeons and Taverns": {
+    "path": "./.mods/dungeons-and-taverns-3.0.3.f.jar",
+    "size": 13161907,
+    "checksum": "blake3:4aecb0d87c9508db2c778fcd015440676c61a26d1dd13f5e4a95addefc15dba3"
+  },
+  "Ender IO": {
+    "path": "./.mods/EnderIO-1.20.1-6.2.17-beta-all.jar",
+    "size": 8086297,
+    "checksum": "blake3:033f3c6a2353f39e98d69f43f791ac572316c5116f36bada6f4893a8b76a10cb"
+  },
+  "Exposure": {
+    "path": "./.mods/exposure-1.20.1-1.7.16-forge.jar",
+    "size": 1360685,
+    "checksum": "blake3:664fcfbd43270e8bb337ccf51317028a88075f5af7635065997eb211f1ff3ca4"
+  },
+  "Extreme Reactors": {
+    "path": "./.mods/ExtremeReactors2-1.20.1-2.0.84.jar",
+    "size": 2503650,
+    "checksum": "blake3:5c80110c1ea1d1303b958189623cdc9b8703d16d851d4aff4e38fa0342dc0d15"
+  },
+  "GuideME": {
+    "path": "./.mods/guideme-20.1.14.jar",
+    "size": 9413204,
+    "checksum": "blake3:06f7a0c41da6785a5ebed4e73eb451cb360f4d8ca7cee517408073e3d2998d6e"
+  },
+  "Jade": {
+    "path": "./.mods/Jade-1.20.1-Forge-11.13.2.jar",
+    "size": 552486,
+    "checksum": "blake3:8c8fa8f217eaec1561354251eb8e4469f5b4fbe775cd7ccdec3523e646d49eac"
+  },
+  "Jade Addons": {
+    "path": "./.mods/JadeAddons-1.20.1-Forge-5.5.0.jar",
+    "size": 91771,
+    "checksum": "blake3:e9daabcd685ceef5fcb83fdf92a13cad1a044f4272f1ad1f1e9deabe7a30043d"
+  },
+  "Jade-VS": {
+    "path": "./.mods/Jade-VS-forge-1.20.1-1.2.3.jar",
+    "size": 65009,
+    "checksum": "blake3:5fb4661f793781672ae98eea5c846aa70558baae0d862b10f75f534da78bc181"
+  },
+  "Just Enough Items": {
+    "path": "./.mods/jei-1.20.1-forge-15.20.0.129.jar",
+    "size": 1409642,
+    "checksum": "blake3:6f42658d606f0cec2d7ae99fd4a47238a64fb3233c8ab188da876d50dc06c2b0"
+  },
+  "Kotlin for Forge": {
+    "path": "./.mods/kotlinforforge-4.12.0-all.jar",
+    "size": 7442998,
+    "checksum": "blake3:bc4adffc540d2b5c911c6d80281b95e92ad4c3db5046f852a909be0d5215e050"
+  },
+  "Macaw's Bridges": {
+    "path": "./.mods/mcw-bridges-3.1.0-mc1.20.1forge.jar",
+    "size": 684392,
+    "checksum": "blake3:550584342f587799e93f3faa0b1ff170002694334491a9f94fce63124278f9b8"
+  },
+  "Macaw's Doors": {
+    "path": "./.mods/mcw-doors-1.1.2-mc1.20.1forge.jar",
+    "size": 1250199,
+    "checksum": "blake3:dda14dfbd0fda19e227b60819b76660674c175f92fabec26c6422d9253b31127"
+  },
+  "Macaw's Fences and Walls": {
+    "path": "./.mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+    "size": 708634,
+    "checksum": "blake3:6aac09c991b798168a7a51b5f44b5910402c1fd9b435b9d322d0badaddfc1327"
+  },
+  "Macaw's Furniture": {
+    "path": "./.mods/mcw-furniture-3.4.1-mc1.20.1forge.jar",
+    "size": 2174615,
+    "checksum": "blake3:0dbd973c43ebd2f32f011d57457ad7cad47969fe10e7e8efa8692171c65091cf"
+  },
+  "Macaw's Lights and Lamps": {
+    "path": "./.mods/mcw-lights-1.1.5-mc1.20.1forge.jar",
+    "size": 547779,
+    "checksum": "blake3:7c1621b8ea7196762c814d265ffbe8da236302cf02502e2b17b4897f4e8a6cc5"
+  },
+  "Macaw's Paths and Pavings": {
+    "path": "./.mods/mcw-mcwpaths-1.1.1-mc1.20.1forge.jar",
+    "size": 812573,
+    "checksum": "blake3:5052298ec261068a40df3e4d29d56fb25753a93b39c723f944ea95784ca36346"
+  },
+  "Macaw's Roofs": {
+    "path": "./.mods/mcw-roofs-2.3.2-mc1.20.1forge.jar",
+    "size": 1864023,
+    "checksum": "blake3:39875980149886f5f2ef3530bd1d920afb3bd73580e254a5f1c10e3a990aa18e"
+  },
+  "Macaw's Stairs and Balconies": {
+    "path": "./.mods/mcw-mcwstairs-1.0.2-mc1.20.1forge.jar",
+    "size": 554055,
+    "checksum": "blake3:f28658663f3d01a9da628e3536ad92c97c29ba0eda6679c7cee1200385965849"
+  },
+  "Macaw's Trapdoors": {
+    "path": "./.mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+    "size": 604510,
+    "checksum": "blake3:41ed444cf926e6b48ebba214ebd870f562fb1b94094c7f72d7b3873886439961"
+  },
+  "Macaw's Windows": {
+    "path": "./.mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+    "size": 1320692,
+    "checksum": "blake3:04a7d36e4abfcdd6052cba6d593cf8560b03ffc79cc0f94eb91a68a740eb7d54"
+  },
+  "Mantle": {
+    "path": "./.mods/Mantle-1.20.1-1.11.97.jar",
+    "size": 1580683,
+    "checksum": "blake3:d79ffcdc1362c3a0ede40e8e2550b2872ce220c0524696a318a2729f8461e2f1"
+  },
+  "Nature's Compass": {
+    "path": "./.mods/NaturesCompass-1.20.1-1.11.2-forge.jar",
+    "size": 215119,
+    "checksum": "blake3:430f3f9395a8486fe2302d480e450e1cc8a29d56bc6a5ada2f083fd6aabb6153"
+  },
+  "Schematic Energistics": {
+    "path": "./.mods/schematicenergistics-1.20.1-1.3.2.jar",
+    "size": 177579,
+    "checksum": "blake3:72efdef798fa3ce14e928067d8f480d2420b70a2d0a2ddab27875fc615277845"
+  },
+  "Tinkers' Construct": {
+    "path": "./.mods/TConstruct-1.20.1-3.11.2.166.jar",
+    "size": 21572031,
+    "checksum": "blake3:d3347f382913699e222a110bfd151f4148e765758011cef0d7c937487edeb9dd"
+  },
+  "YUNG's API": {
+    "path": "./.mods/YungsApi-1.20-Forge-4.0.6.jar",
+    "size": 370524,
+    "checksum": "blake3:6c9ca85d62b34ee7c788320ab3eec3c44852b37ede52f729410f94d75642df58"
+  },
+  "YUNG's Better Desert Temples": {
+    "path": "./.mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+    "size": 918012,
+    "checksum": "blake3:eff8eff6cfe2a0a776842e37c2b0ee2223726a22386991745cb2a0426f17a8d6"
+  },
+  "YUNG's Better Dungeons": {
+    "path": "./.mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+    "size": 792381,
+    "checksum": "blake3:ad1470941c801339ddabfac60edfe11ec5740145e4c8ca8d69d3d5375b3d9cfd"
+  },
+  "YUNG's Better End Island": {
+    "path": "./.mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+    "size": 387111,
+    "checksum": "blake3:552ddc7197c9f0028fb9d43662c9c2d946cbb76f16d2c05f1f9fbf749779bb55"
+  },
+  "YUNG's Better Jungle Temples": {
+    "path": "./.mods/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+    "size": 806652,
+    "checksum": "blake3:ee6c0da614b805bf754ebda9daefa656466830aa94942fe6f0572d44e6796684"
+  },
+  "YUNG's Better Mineshafts": {
+    "path": "./.mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+    "size": 492998,
+    "checksum": "blake3:950316c79601ae8a8c25cd2ce26f7fcfcddd050752ece7983f184314f309d250"
+  },
+  "YUNG's Better Nether Fortresses": {
+    "path": "./.mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+    "size": 619255,
+    "checksum": "blake3:9fe3a8a4c9e38b5eca3fdcfc24fa8614cb095dcc08c117f2783f256ce482a079"
+  },
+  "YUNG's Better Ocean Monuments": {
+    "path": "./.mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+    "size": 1033262,
+    "checksum": "blake3:4113baf2197bd48f86d88366359f2b95bcedec7ccb29d4a2fcce6c88011e9c0d"
+  },
+  "YUNG's Better Strongholds": {
+    "path": "./.mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+    "size": 473564,
+    "checksum": "blake3:2127416f3a20220a35d7e9b2424985559ba24b12a951c72c61679083404bce26"
+  },
+  "YUNG's Better Witch Huts": {
+    "path": "./.mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+    "size": 179190,
+    "checksum": "blake3:9797b426e3597a802634c573d3220c6fe748f0f0389c604299938c2557ab0db6"
+  },
+  "YUNG's Bridges": {
+    "path": "./.mods/YungsBridges-1.20-Forge-4.0.3.jar",
+    "size": 136236,
+    "checksum": "blake3:c8527af67f055a2e38411715778882d80881225a557e72df67919de03fb5aeb8"
+  },
+  "YUNG's Extras": {
+    "path": "./.mods/YungsExtras-1.20-Forge-4.0.3.jar",
+    "size": 200341,
+    "checksum": "blake3:ecf1f0f2e76f4fc4e2c410a35cebdb67607c9fa260b16a9590e2c9d18b5a74ef"
+  },
+  "Zero CORE 2": {
+    "path": "./.mods/ZeroCore2-1.20.1-2.1.45.jar",
+    "size": 1338662,
+    "checksum": "blake3:822af1a177f7069cea4b7424a89493f78a31534916d6e468660411bb6ea98b76"
+  },
+  "Advanced Peripherals": {
+    "path": "./.mods/AdvancedPeripherals-1.20.1-0.7.46r.jar",
+    "size": 889945,
+    "checksum": "blake3:d5adf02bd4ac44e872833f90ca252f73cafc7392a3a4923d978438d5059a5ab2"
+  },
+  "Architectury": {
+    "path": "./.mods/architectury-9.2.14-forge.jar",
+    "size": 580602,
+    "checksum": "blake3:b7cd89fe290d52e2db1ead35e71ddbd11f53991d3ca3cba44bfa64665dee0e6e"
+  },
+  "Chunk Loaders": {
+    "path": "./.mods/chunkloaders-1.2.9-forge-mc1.20.1.jar",
+    "size": 155478,
+    "checksum": "blake3:6e70724b41bb4492532a71afe883e6f8be4e8ce76ff391ac5262fcea53191c46"
+  },
+  "Cloth Config v10 API": {
+    "path": "./.mods/cloth-config-11.1.106-forge.jar",
+    "size": 1168375,
+    "checksum": "blake3:44e218931e5d6e2176aecb5e58d078a396a9211e0f8e29710e2eaf06670cd948"
+  },
+  "Collective": {
+    "path": "./.mods/collective-1.20.1-8.13.jar",
+    "size": 665169,
+    "checksum": "blake3:89406021995c3d32957664402ac807499d9b20c267a223c9a7d9fbca3695cb17"
+  },
+  "Create": {
+    "path": "./.mods/create-1.20.1-6.0.8.jar",
+    "size": 19170905,
+    "checksum": "blake3:9117a82036584b4736e94458e6ded2bb1987eedfd4474d2f3bf7b7496c1aaa8c"
+  },
+  "Create Ore Excavation": {
+    "path": "./.mods/createoreexcavation-1.20-1.6.5.jar",
+    "size": 432699,
+    "checksum": "blake3:3bec02f291a77a5ca3f17463d08f57bac5231cebca4ef30a31f75a7323497f35"
+  },
+  "Diagonal Fences": {
+    "path": "./.mods/DiagonalFences-v8.1.5-1.20.1-Forge.jar",
+    "size": 182476,
+    "checksum": "blake3:2bba7a5a163d0ebd42581c0ecc162d64ceeb53089274f9a514957cd0bfb8f626"
+  },
+  "Diagonal Walls": {
+    "path": "./.mods/DiagonalWalls-v8.0.4-1.20.1-Forge.jar",
+    "size": 173567,
+    "checksum": "blake3:4a194ccaae96124d971a41fa87f605784079d3dc004feb59f9e04beb01ac8f92"
+  },
+  "Distant Horizons": {
+    "path": "./.mods/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
+    "size": 25378978,
+    "checksum": "blake3:e82bd02d9453932942fe4ad21d18608017e3bd9d994b560095396e0051a4098f"
+  },
+  "Double Doors": {
+    "path": "./.mods/doubledoors-1.20.1-7.2.jar",
+    "size": 54300,
+    "checksum": "blake3:95e43d1b8572b6e2f589ba3331a0f7fa1ab31e1fa31b730cbdc22ca8c9ddcf7c"
+  },
+  "Gravestone Mod": {
+    "path": "./.mods/gravestone-forge-1.20.1-1.0.35.jar",
+    "size": 317181,
+    "checksum": "blake3:393c8c966dde890a0b7d51399e3c0094984eac3e5d7103f906ccb2b35941487e"
+  },
+  "Journeymap": {
+    "path": "./.mods/journeymap-1.20.1-5.10.3-forge.jar",
+    "size": 7160406,
+    "checksum": "blake3:4e4eef4fd11e689f0b2f4a01a4ba3afc3262fd479c4a1bb2e471d694fc6e688b"
+  },
+  "Puzzles Lib": {
+    "path": "./.mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+    "size": 1342987,
+    "checksum": "blake3:ef88c971c73380d5dd2f67dcd2f3251ea7fd3535f1ab19257125d4e6dd91ee0f"
+  },
+  "Quark": {
+    "path": "./.mods/Quark-4.0-462.jar",
+    "size": 14935230,
+    "checksum": "blake3:a83b2d192eaede72105a161479c3abbeb23d6731413847ada5ccf8be1d8ec8f0"
+  },
+  "ShulkerBoxTooltip": {
+    "path": "./.mods/shulkerboxtooltip-forge-4.0.4+1.20.1.jar",
+    "size": 221121,
+    "checksum": "blake3:07b53d3a027f14b6bbbfb85487c70e1c84a8a19443e904bd41ad57f9cf9cf7d7"
+  },
+  "Sophisticated Backpacks": {
+    "path": "./.mods/sophisticatedbackpacks-1.20.1-3.24.20.1500.jar",
+    "size": 983302,
+    "checksum": "blake3:f254dd14ab8d3c392904066858c849caccfd9ea993f4332eeff27704431c6605"
+  },
+  "Sophisticated Core": {
+    "path": "./.mods/sophisticatedcore-1.20.1-1.2.119.1369.jar",
+    "size": 1407708,
+    "checksum": "blake3:9d6458648dee7b4813900e8be62c6ab9d420e02515fed0c14b050f5ba90f0367"
+  },
+  "Sound Physics Remastered": {
+    "path": "./.mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+    "size": 206984,
+    "checksum": "blake3:56fcf2514278ddde21580d3f568a7c1b1920213137bddade968320815a7c2eff"
+  },
+  "SuperMartijn642's Config Library": {
+    "path": "./.mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+    "size": 206584,
+    "checksum": "blake3:3543a705b228aaeb010d5918a0b5f5e9073825f5f1e819abacdd59cbde82b4a4"
+  },
+  "SuperMartijn642's Core Lib": {
+    "path": "./.mods/supermartijn642corelib-1.1.19-forge-mc1.20.1.jar",
+    "size": 516246,
+    "checksum": "blake3:03b5cd1ab1c1f93f4ffacea3e3ddad9e37e28fe688bb8d34fe962046dec67e5d"
+  },
+  "Trash Cans": {
+    "path": "./.mods/trashcans-1.0.18b-forge-mc1.20.jar",
+    "size": 158164,
+    "checksum": "blake3:bc9fcd2d799c47fe4386d754e46cf7aa00a176c0ea1550a209b2bc17cce3dea7"
+  },
+  "TxniLib": {
+    "path": "./.mods/txnilib-forge-1.0.24-1.20.1.jar",
+    "size": 3743339,
+    "checksum": "blake3:7acae462bb079cfa775cd4c459518f5d5d0ed7aa9650a911cf6ee7ff6b999968"
+  },
+  "Valkyrien Skies 2": {
+    "path": "./.mods/valkyrienskies-120-2.4.9.jar",
+    "size": 24155952,
+    "checksum": "blake3:c72a270aacc4fb913a638c9a31ad4fad4816bf1cfd4c44d3a95cdba77d40f34c"
+  },
+  "Zeta": {
+    "path": "./.mods/Zeta-1.0-31.jar",
+    "size": 1006518,
+    "checksum": "blake3:baa399dbf2c803402385f52419aa4312f936e58c04a9525865179f33f25f6d37"
+  },
+  "CC: VS": {
+    "path": "./.mods/cc_vs-1.20.1-forge-0.6.0.jar",
+    "size": 582646,
+    "checksum": "blake3:62190d92b8a110d855ad3dbd5885ae10e9c22d372a72fb35f1e62ac87ab132a5"
+  },
+  "Create Crafts & Additions": {
+    "path": "./.mods/createaddition-1.20.1-1.3.3.jar",
+    "size": 1577313,
+    "checksum": "blake3:40ab83b2fe7a989413adb32e28d6cbe94bfcf316b58efb033f61eb03f1e31864"
+  },
+  "Create: Bells & Whistles": {
+    "path": "./.mods/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar",
+    "size": 199902,
+    "checksum": "blake3:5321d5a5941419fa16aa8bdf71dacc170f66dbf2537a0f53626d49b040800885"
+  },
+  "Immersive Engineering": {
+    "path": "./.mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar",
+    "size": 12129396,
+    "checksum": "blake3:a670764cefe7f3a5d7bc70b7b790f85ceb8889ec0e303eb87ac708b9394fd194"
+  },
+  "Roughly Enough Items": {
+    "path": "./.mods/RoughlyEnoughItems-12.1.785-forge.jar",
+    "size": 2384003,
+    "checksum": "blake3:cc10d5959a4b3a10ad433d9c4a5051a68e40f8a7ad94a236ad21fb8fbd03482c"
+  },
+  "Create Track Map": {
+    "path": "./.mods/create-track-map-1.4%2Bmc1.20.1-neoforge.jar",
+    "size": 4392723,
+    "checksum": "blake3:b5797410a306d0b94dbee034974535e97d0ef5c49aca304219ee99de726102fa"
+  },
+  "Create: Threaded Trains": {
+    "path": "./.mods/createthreadedtrains-forge-1.20.1-1.0.0.jar",
+    "size": 77230,
+    "checksum": "blake3:235420b9da680cf11e7c1c8d369555043a8a25f07acb7846064c934970037c4a"
+  },
+  "Create: Escalated": {
+    "path": "./.mods/escalated-1.2.1%2Bcreate.6.0.8-mc.1.20.1-forge.jar",
+    "size": 701829,
+    "checksum": "blake3:adaa9528a8ee93ddbad587833286108bde73227be5c5ac14b83914d97675b5a1"
+  },
+  "Balm": {
+    "path": "./.mods/balm-forge-1.20.1-7.3.38-all.jar",
+    "size": 591398,
+    "checksum": "blake3:3e6a7d5fcdd0b9e8f0b2332f22962a78e828a595c1e8eb0b8e1f74587f1ecae3"
+  },
+  "Watut": {
+    "path": "./.mods/watut-forge-1.20.1-1.2.3.jar",
+    "size": 435496,
+    "checksum": "blake3:386e96d0da811051c45b3eeb008853f0f4585d599f3fac17cbe1424f82d332d9"
+  },
+  "Nether Portal Fix": {
+    "path": "./.mods/netherportalfix-forge-1.20-13.0.1.jar",
+    "size": 217831,
+    "checksum": "blake3:407cf01a4c04887a6273458fa11f7cb23b412da7d81d06a91ce49f4eb9bb4725"
+  },
+  "Polymorph": {
+    "path": "./.mods/polymorph-forge-0.49.10%2B1.20.1.jar",
+    "size": 299601,
+    "checksum": "blake3:2b3bc34b959534599a49126cf5811fa0b2046524240cbc13057238c1a7b7bdcf"
+  },
+  "SmartBrainLib": {
+    "path": "./.mods/SmartBrainLib-forge-1.20.1-1.15.jar",
+    "size": 362339,
+    "checksum": "blake3:bd05d48dec1765718f84e9ab1a9b9e88082ae14b228e0d7acfbccb3107446793"
+  },
+  "Create Railways Navigator": {
+    "path": "./.mods/createrailwaysnavigator-forge-1.20.1-alpha-0.9.0-1-C6.jar",
+    "size": 1970039,
+    "checksum": "blake3:2769064ece41f8662ecbc5917a168d504aa9a91d1fb0ab8c2939d1ae4417c0f5"
+  },
+  "Patchouli": {
+    "path": "./.mods/Patchouli-1.20.1-84.1-FORGE.jar",
+    "size": 642711,
+    "checksum": "blake3:cb04587ea6ef38b0f7fd9377b85543b8493b3511da1fd40212235678fd0632c1"
+  },
+  "StateObserver": {
+    "path": "./.mods/stateobserver-forge-1.20.1-1.4.3.jar",
+    "size": 13385,
+    "checksum": "blake3:565db25362e0da132db676a2e778f2f7461d5d8ae04b69e7a3e789a12b5930c9"
+  },
+  "Geckolib": {
+    "path": "./.mods/geckolib-forge-1.20.1-4.8.3.jar",
+    "size": 1039047,
+    "checksum": "blake3:6acb914221e2a8cb43efff64cb64cd0c0a6054f7491e27785f83909498074fb3"
+  },
+  "DragonLib": {
+    "path": "./.mods/dragonlib-forge-1.20.1-beta-3.0.19.jar",
+    "size": 1955455,
+    "checksum": "blake3:4f137d44c34568394d051bb7927e74a7f7df4db5a4bc7c222e0f307a5206e087"
+  },
+  "Enchanted": {
+    "path": "./.mods/enchanted-forge-1.20.1-3.1.13.jar",
+    "size": 3172982,
+    "checksum": "blake3:64cd49b30669b069467a198aa23afd08581e6058720c3b0ff65837b31258116d"
+  },
+  "Polymorphic Energistics": {
+    "path": "./.mods/polyeng-forge-0.1.1-1.20.1.jar",
+    "size": 15469,
+    "checksum": "blake3:7a8cadf6a35ccd4ec776432aa3cbb4df36d0628fac5df369e6f6e816be022a81"
+  },
+  "Structurize": {
+    "path": "./.mods/structurize-1.20.1-1.0.802-snapshot.jar",
+    "size": 1100752,
+    "checksum": "blake3:cb8c020342482409bd030a022f99d8cf41f12ae289e0b79acb98d7663d8e8ecd"
+  },
+  "MineColonies": {
+    "path": "./.mods/minecolonies-1.20.1-1.1.1186-snapshot.jar",
+    "size": 77642563,
+    "checksum": "blake3:162b6f91dbdef11c0ebc4fb2a0aebcf4b8fc650eb734aad0a99a4e326eb1de98"
+  },
+  "Domum Ornamentum": {
+    "path": "./.mods/domum_ornamentum-1.20.1-1.0.296-universal.jar",
+    "size": 1141555,
+    "checksum": "blake3:03555caab322c930516ee373c167d12461e832f85d8e772abcb29c9d92d8bd29"
+  },
+  "Multi-Piston": {
+    "path": "./.mods/multipiston-1.20-0.0.47-snapshot.jar",
+    "size": 39567,
+    "checksum": "blake3:f694ca01471b8575eb2d5407118efa022be8f65102733e5f1751dd3e18b2798b"
+  },
+  "BlockUI": {
+    "path": "./.mods/blockui-1.20.1-1.0.194-snapshot.jar",
+    "size": 391051,
+    "checksum": "blake3:e448ed63a00a2d70685ea1075c666b10c3c7738a9e8566656982b3bdf41ebeda"
+  },
+  "TownTalk": {
+    "path": "./.mods/towntalk-1.20.1-1.1.0.jar",
+    "size": 49194778,
+    "checksum": "blake3:8786b1dc3ad59cebe628cde1c4dcc3407a0e17c3606c5577990ff37a9237bdc0"
+  },
+  "CoroUtil": {
+    "path": "./.mods/coroutil-forge-1.20.1-1.3.7.jar",
+    "size": 64187,
+    "checksum": "blake3:42061479620d1764e996e7de9e11cadd90161ecc0e3aa797c158ad0f27024b3a"
+  },
+  "Stylecolonies": {
+    "path": "./.mods/stylecolonies-1.20.1-1.15.54.jar",
+    "size": 31341584,
+    "checksum": "blake3:fa5527f744969a55d7607771f93363957b7f4d3b2a00a23b0ac6a3bd146d3e86"
+  }
+}
