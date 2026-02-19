@@ -3,7 +3,7 @@ terraform {
 }
 
 module "hetzner_mc_server" {
-  source = "git::https://github.com/dotunwrap/terraform-hetzner-mc-server.git//module?ref=v1.0.0"
+  source = "git::https://github.com/dotunwrap/terraform-hetzner-mc-server.git//module?ref=v1.0.1"
 
   hcloud_token = var.hcloud_token
 
