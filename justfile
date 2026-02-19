@@ -33,6 +33,3 @@ plan:
 alias mod := _mod
 _mod NAME URL:
   jq '.{{NAME}} = "{{URL}}"' {{MODS_JSON}} > temp.json && mv temp.json {{MODS_JSON}}
-
-cleanup:
-  python3 ./scripts/cleanup.py
