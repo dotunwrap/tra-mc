@@ -503,5 +503,20 @@
     "path": "./.mods/stylecolonies-1.20.1-1.15.54.jar",
     "size": 31341584,
     "checksum": "blake3:fa5527f744969a55d7607771f93363957b7f4d3b2a00a23b0ac6a3bd146d3e86"
+  },
+  "Canary": {
+    "path": "./.mods/canary-mc1.20.1-0.3.3.jar",
+    "size": 594191,
+    "checksum": "blake3:2491ffea85bc903c7b8084115c6a264b6d640fe05b58f951a0b4deed1c38d828"
+  },
+  "FerriteCore": {
+    "path": "./.mods/ferritecore-6.0.1-forge.jar",
+    "size": 123034,
+    "checksum": "blake3:bb86f827a373b3594e30125dd0a11e53751f0e345bda96bec5e076a5eefd4a3d"
+  },
+  "ModernFix": {
+    "path": "./.mods/modernfix-forge-5.26.2%2Bmc1.20.1.jar",
+    "size": 826829,
+    "checksum": "blake3:044b18f6fab0507e4869d901f6986441a35943180589da3408aafff63782d4cf"
   }
 }
