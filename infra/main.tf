@@ -3,7 +3,7 @@ terraform {
 }
 
 module "hetzner_mc_server" {
-  source = "git::https://github.com/dotunwrap/terraform-hetzner-mc-server.git//module?ref=v1.0.2"
+  source = "git::https://github.com/dotunwrap/terraform-hetzner-mc-server.git//module?ref=v1.1.0"
 
   hcloud_token = var.hcloud_token
 
@@ -12,8 +12,9 @@ module "hetzner_mc_server" {
   public_ssh_key  = var.public_ssh_key
   private_ssh_key = var.private_ssh_key
 
-  server_type     = "ccx23"
-  server_location = "ash"
+  server_type      = "ccx23"
+  server_location  = "ash"
+  server_swap_size = 16
 
   volume_size = 50
 
