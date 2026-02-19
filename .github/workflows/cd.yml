@@ -19,14 +19,6 @@ jobs:
       - name: Clone repository
         uses: actions/checkout@v5
 
-      - name: Cache mods
-        uses: actions/cache@v4
-        with:
-          path: .mods
-          key: ${{ runner.os }}-mods-${{ hashFiles('mods.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-mods-
-
       - name: Install mods
         uses: ./.github/actions/install-mods
 

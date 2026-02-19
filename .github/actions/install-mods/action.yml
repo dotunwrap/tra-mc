@@ -1,34 +1,28 @@
-name: 'Install Mods'
-description: 'Download and install mods from lockfile using scripts/download.sh'
-author: 'tra-mc'
+name: "Install Mods"
+description: "Download and install mods from lockfile using scripts/download.sh"
+author: "tra-mc"
 
 runs:
-  using: 'composite'
+  using: "composite"
   steps:
-    - name: Install dependencies
-      shell: bash
-      run: |
-        if ! command -v b3sum &>/dev/null; then
-          echo "Installing b3sum..."
-          if [[ "$OSTYPE" == "darwin"* ]]; then
-            brew install b3sum
-          else
-            # For Ubuntu/Debian
-            sudo apt-get update
-            sudo apt-get install -y blake3
-          fi
-        fi
+    - name: Install Nix
+      uses: cachix/install-nix-action@v31
+      with:
+        extra_nix_config: |
+          auto-optimise-store = true
+          experimental-features = nix-command flakes
+          substituters = https://cache.nixos.org/ https://nix-community.cachix.org
+          trusted_public_keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY= nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX+/rkCWyvRCYg3Fs=
+        github_access_token: ${{ secrets.GITHUB_TOKEN }}
 
-        if ! command -v jq &>/dev/null; then
-          echo "Installing jq..."
-          if [[ "$OSTYPE" == "darwin"* ]]; then
-            brew install jq
-          else
-            sudo apt-get update
-            sudo apt-get install -y jq
-          fi
-        fi
+    - name: Cache mods
+      uses: actions/cache@v4
+      with:
+        path: .mods
+        key: ${{ runner.os }}-mods-${{ hashFiles('mods.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-mods-
 
     - name: Download mods
       shell: bash
-      run: bash scripts/download.sh
+      run: nix develop --command bash scripts/download.sh

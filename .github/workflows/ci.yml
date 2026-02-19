@@ -55,17 +55,8 @@ jobs:
       - name: Clone repository
         uses: actions/checkout@v5
 
-      - name: Cache mods
-        uses: actions/cache@v4
-        with:
-          path: .mods
-          key: ${{ runner.os }}-mods-${{ hashFiles('mods.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-mods-
-
       - name: Install mods
         uses: ./.github/actions/install-mods
-
 
       - name: Install Terraform
         uses: hashicorp/setup-terraform@v3
@@ -99,7 +90,7 @@ jobs:
               issue_number: context.issue.number,
             })
             const botComment = comments.find(comment => comment.user.type === 'Bot' && comment.body.includes('Terraform Output'))
-            
+
             const output = `## Terraform Output
             #### Terraform Initialization \`${{ steps.init.outcome }}\`
             #### Terraform Validation \`${{ steps.validate.outcome }}\`
