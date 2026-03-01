@@ -284,11 +284,6 @@
     "size": 182476,
     "checksum": "blake3:2bba7a5a163d0ebd42581c0ecc162d64ceeb53089274f9a514957cd0bfb8f626"
   },
-  "Diagonal Walls": {
-    "path": "./.mods/DiagonalWalls-v8.0.4-1.20.1-Forge.jar",
-    "size": 173567,
-    "checksum": "blake3:4a194ccaae96124d971a41fa87f605784079d3dc004feb59f9e04beb01ac8f92"
-  },
   "Distant Horizons": {
     "path": "./.mods/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
     "size": 25378978,
