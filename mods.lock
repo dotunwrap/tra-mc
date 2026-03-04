@@ -379,11 +379,6 @@
     "size": 199902,
     "checksum": "blake3:5321d5a5941419fa16aa8bdf71dacc170f66dbf2537a0f53626d49b040800885"
   },
-  "Immersive Engineering": {
-    "path": "./.mods/ImmersiveEngineering-1.20.1-10.2.0-183.jar",
-    "size": 12129396,
-    "checksum": "blake3:a670764cefe7f3a5d7bc70b7b790f85ceb8889ec0e303eb87ac708b9394fd194"
-  },
   "Roughly Enough Items": {
     "path": "./.mods/RoughlyEnoughItems-12.1.785-forge.jar",
     "size": 2384003,
