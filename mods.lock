@@ -598,5 +598,10 @@
     "path": "./.mods/sliceanddice-forge-3.6.0.jar",
     "size": 588268,
     "checksum": "blake3:98ac71ca0f4f54b3e4b4e863f35d426aa71485058c352e8a8c495230d44379f8"
+  },
+  "Create: Bits 'n' Bobs": {
+    "path": "./.mods/bits_n_bobs-0.0.41.jar",
+    "size": 1623254,
+    "checksum": "blake3:67aeeaa9bf111f1b2f08096347a4cff453fa225b676f2c9366ab2e7428cbe954"
   }
 }
